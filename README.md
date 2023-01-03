@@ -12,8 +12,6 @@
 <a href="https://www.instagram.com/jiseok_212/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flatsquare&logo=Instagram&logoColor=white&link=https://www.instagram.com/hongssup"/></a><br/>
 
  ![LaonCoder's github stats](https://github-readme-stats.vercel.app/api?username=LaonCoder&show_icons=true)
- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckjsjs)](https://solved.ac/ckjsjs)
 
 <h3 align="left">📖 Tech Stack</h3>
 <p align="left">
