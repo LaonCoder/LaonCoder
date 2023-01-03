@@ -4,7 +4,7 @@
 <p>
   I'm Choi Jiseok.</br>
   I'm majoring in <b>Computer Science</b> at Hanyang University.<br/>
-  The field that i'm interested in is <b>"Web developement"</b>.<br/>
+  The field that i'm interested in is <b>"Web development"</b>.<br/>
   I'm always open to your contacts. So do not hesitate!🙂
 </p>
 
