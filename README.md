@@ -43,8 +43,11 @@
   <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-092e20?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-</p>
+</p>  
 
-<h2 align="left">💫 Released(Deployed) Service</h2>
-- <a href="http://meety.site/"><b>Meety</b></a> (Contribution : UI Design / Frontend)  
+<br/>
+
+<h3 align="left">💫 Released(Deployed) Service</h3>
+- <a href="http://meety.site/"><b>Meety</b></a> (Contribution : UI Design / Frontend)
+<br/>
 - <a href="https://apps.apple.com/kr/app/aquarium-widget/id6472689219"><b>Aquarium Widget App</b></a> / <a href="https://apps.apple.com/kr/app/aquarium-widget/id6472689219">[ Website ]</a> (Contribution : UI Design / App, Website Dev)
