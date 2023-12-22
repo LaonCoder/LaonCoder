@@ -4,7 +4,7 @@
 <p>
   I'm Choi Jiseok.</br>
   I'm majoring in <b>Computer Science</b> at Hanyang University.<br/>
-  The field that i'm interested in is <b>"Web development"</b>.<br/>
+  The field that i'm interested in is <b>"App development"</b>.<br/>
   I'm always open to your contacts. So do not hesitate!🙂
 </p>
 
@@ -14,6 +14,7 @@
  ![LaonCoder's github stats](https://github-readme-stats.vercel.app/api?username=LaonCoder&show_icons=true)
 
 <h3 align="left">📖 Tech Stack</h3>
+<p><b>Web Dev</b></p>
 <p align="left">
   <img src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=Html5&logoColor=white"/></a>&nbsp
@@ -22,4 +23,7 @@
   <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-092e20?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
 </p>
