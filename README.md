@@ -55,5 +55,6 @@
 - <a href="https://apps.apple.com/kr/app/aquarium-widget/id6472689219"><b>Aquarium Widget App</b></a> / <a href="https://projectintheclass.github.io/aquarium-widget-app/index.html">[ Website ]</a> (Contribution : UI Design / App, Website Dev)
 
 <h3 align="left">🏃 Experience</h3>
-- 뉴빌리티 로봇 운영 지원팀 (2023.07.20 ~ 2023.10.15)  
+- 뉴빌리티 로봇 운영 지원팀 (2023.07.20 ~ 2023.10.15)
+<br/>
 - 여기어때컴퍼니 앱개발팀(iOS) 인턴 (2024.01.01 ~ )
