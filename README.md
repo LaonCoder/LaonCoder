@@ -9,6 +9,7 @@
 </p>
 
 <a href="mailto:jiseok212@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiseok212@gmail.com"/></a>
+<a href="s"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laoncoder&layout=compact&theme=nord" /></a>
 <a href="https://www.instagram.com/jiseok_212/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flatsquare&logo=Instagram&logoColor=white&link=https://www.instagram.com/hongssup"/></a><br/>
 
  ![LaonCoder's github stats](https://github-readme-stats.vercel.app/api?username=LaonCoder&show_icons=true)  
