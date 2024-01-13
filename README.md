@@ -52,7 +52,7 @@
 <h3 align="left">💫 Released(Deployed) Service</h3>
 - <a href="http://meety.site/"><b>Meety</b></a> (Contribution : UI Design / Frontend)
 <br/>
-- <a href="https://apps.apple.com/kr/app/aquarium-widget/id6472689219"><b>Aquarium Widget App</b></a> / <a href="https://projectintheclass.github.io/aquarium-widget-app/index.html">[ Website ]</a> (Contribution : UI Design / App, Website Dev)
+- <a href="https://apps.apple.com/kr/app/aquarium-widget/id6472689219"><b>Aquarium Widget App</b></a> / <a href="https://projectintheclass.github.io/aquarium-widget-app/index.html">[ Website ]</a> (Contribution : UI Design / App, Website Dev)  
 
 <br/>
 
