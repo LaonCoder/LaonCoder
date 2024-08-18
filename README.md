@@ -15,7 +15,17 @@
 
  <br/>
 
-<h2 align="left">📖 Tech Stack</h2>
+<h2 align="left">📖 Tech Stack</h2>  
+<p><b>[ App Dev ]</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Xcode-147efb?style=flat-square&logo=Xcode&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp
+</p>
 <p><b>[ Web Dev ]</b></p>
 <p align="left">
   <img src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -25,16 +35,6 @@
   <img src="https://img.shields.io/badge/Recoil-3578e5?style=flat-square&logo=Recoil&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/tailwindcss-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white"/></a>&nbsp 
 </p>  
-<p><b>[ App Dev ]</b></p>
-<p align="left">
-  <img src="https://img.shields.io/badge/kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Xcode-147efb?style=flat-square&logo=Xcode&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp
-</p>
 <p><b>[ Version Control ]</b></p>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
