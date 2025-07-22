@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp
 </p>
 <p><b>[ Web Dev ]</b></p>
 <p align="left">
